@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+}
+
+.box {
+  width: 500px;
+}
+
+.data-input {
+  width: 490px;
+  padding: 5px;
+}
+
+.box-big {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  text-align: center;
+}
+
+.img {
+  margin-bottom: auto;
+}
